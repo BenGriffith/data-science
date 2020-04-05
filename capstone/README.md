@@ -7,5 +7,5 @@
   - In this project, I used Python, Pandas, Numpy, Seaborn, Matplotlib, WordCloud, Scipy, Supervised Learning and Scikit-Learn.
 
 ## Unsupervised Learning: Netflix TV Shows and Movies
-  - Performed data cleaning, data exploration, feature engineering, algorithm selection, parameter tuning, model evaluation and dimensionality reduction in order to identify similar Netflix TV Shows and Movies based on characteristics of the dataset.
+  - Performed data cleaning, data exploration, feature engineering, algorithm selection, parameter tuning, model evaluation and dimensionality reduction in order to identify similar Netflix TV Shows and Movies.
   - In this project, I used Python, Pandas, Numpy, Seaborn, Matplotlib, WordCloud, Scipy, Unsupervised Learning and Scikit-Learn.
